@@ -4,3 +4,4 @@
 * https://ctian.livejournal.com/ (Lisp engineer)
 * http://frostming.com (Python engineer)
 * https://www.bootingman.org/ (social activist)
+* https://www.barretlee.com/ (frontend engineer)
